@@ -1,5 +1,4 @@
-README - Proyecto de Automatización QA SauceDemo
-
+README - Proyecto de Automatización QA 
 1. Propósito del Proyecto
 El objetivo de esta pre-entrega es aplicar conocimientos de Selenium WebDriver y Python para automatizar flujos básicos en la web saucedemo.com.
 
