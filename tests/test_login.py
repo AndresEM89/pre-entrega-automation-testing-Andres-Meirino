@@ -7,5 +7,6 @@ def test_login_valid(login_in_driver):
         driver=login_in_driver
 
         assert "/inventory.html" in driver.current_url, "No se redirigio al inventario"
+        
     except Exception as e:
         print(f"error en test_login: {e}")
